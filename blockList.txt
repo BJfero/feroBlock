@@ -1,3 +1,12 @@
 # Dinamicna lista, tuka ke stavame linkovi za block
 0.0.0.0 mobi-promo.com
 0.0.0.0 sherwoodhotels.com.tr
+0.0.0.0 konsaltingpekovic.mk
+0.0.0.0 koncar.com.mk
+0.0.0.0 bugsklocman.ddns.net
+0.0.0.0 doh.cq0.co
+0.0.0.0 magazinm.net
+0.0.0.0 crnagoravijesti.me
+0.0.0.0 prakticnazena.net
+0.0.0.0 trgo24.com
+0.0.0.0 rapid.si
