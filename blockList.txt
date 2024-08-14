@@ -1,0 +1,2 @@
+# Dinamicna lista, tuka ke stavame linkovi za block
+0.0.0.0 mobi-promo.com
