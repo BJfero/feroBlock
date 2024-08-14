@@ -1,2 +1,3 @@
 # Dinamicna lista, tuka ke stavame linkovi za block
 0.0.0.0 mobi-promo.com
+0.0.0.0 sherwoodhotels.com.tr
