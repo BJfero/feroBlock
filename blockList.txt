@@ -14,3 +14,9 @@
 0.0.0.0 cdn.iconstaff.top
 0.0.0.0 share-dns.net
 0.0.0.0 hart.mk
+0.0.0.0 prolink.mk
+0.0.0.0 omo.mk
+0.0.0.0 polyfill.io
+0.0.0.0 proftrafficcounter.com
+0.0.0.0 corneredsedatetedious.com
+0.0.0.0 seashoreshine.com
