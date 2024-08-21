@@ -21,3 +21,4 @@
 0.0.0.0 corneredsedatetedious.com
 0.0.0.0 seashoreshine.com
 0.0.0.0 cdn.iconstaff.top
+0.0.0.0 trackclicklive.icu
