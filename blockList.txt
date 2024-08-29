@@ -24,3 +24,4 @@
 0.0.0.0 trackclicklive.icu
 0.0.0.0 telcentro.com
 0.0.0.0 nordcdn.com
+0.0.0.0 stape.be
