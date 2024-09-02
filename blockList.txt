@@ -26,3 +26,6 @@
 0.0.0.0 nordcdn.com
 0.0.0.0 stape.be
 0.0.0.0 siriusnekretnine.com
+0.0.0.0 matstar.mk
+0.0.0.0 youradexchange.com
+0.0.0.0 pubtrky.com
