@@ -29,3 +29,4 @@
 0.0.0.0 matstar.mk
 0.0.0.0 youradexchange.com
 0.0.0.0 pubtrky.com
+0.0.0.0 shijejete.com
