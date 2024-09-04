@@ -30,3 +30,8 @@
 0.0.0.0 youradexchange.com
 0.0.0.0 pubtrky.com
 0.0.0.0 shijejete.com
+0.0.0.0 bvng.shop
+0.0.0.0 refpa4948989.top
+0.0.0.0 hairshop.mk
+0.0.0.0 fzc11oktomvri.com.mk
+0.0.0.0 duma.mk
