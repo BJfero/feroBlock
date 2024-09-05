@@ -35,3 +35,4 @@
 0.0.0.0 hairshop.mk
 0.0.0.0 fzc11oktomvri.com.mk
 0.0.0.0 duma.mk
+0.0.0.0 adaptivads.rs
