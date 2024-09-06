@@ -38,3 +38,4 @@
 0.0.0.0 adaptivads.rs
 0.0.0.0 3ing.mk
 0.0.0.0 skm.mk
+0.0.0.0 crnagoravijesti.me
