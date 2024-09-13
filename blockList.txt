@@ -20,7 +20,6 @@
 0.0.0.0 proftrafficcounter.com
 0.0.0.0 corneredsedatetedious.com
 0.0.0.0 seashoreshine.com
-0.0.0.0 cdn.iconstaff.top
 0.0.0.0 trackclicklive.icu
 0.0.0.0 telcentro.com
 0.0.0.0 nordcdn.com
@@ -39,5 +38,5 @@
 0.0.0.0 adaptivads.rs
 0.0.0.0 3ing.mk
 0.0.0.0 skm.mk
-0.0.0.0 crnagoravijesti.me
 0.0.0.0 idol.mk
+0.0.0.0 wpemojii.com
