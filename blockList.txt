@@ -40,4 +40,4 @@
 0.0.0.0 skm.mk
 0.0.0.0 idol.mk
 0.0.0.0 wpemojii.com
-0.0.0.0 sonk.org.mk'
+0.0.0.0 sonk.org.mk
