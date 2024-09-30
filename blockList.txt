@@ -46,3 +46,4 @@
 0.0.0.0 efes.com.mk
 0.0.0.0 wecoloringpage.com
 0.0.0.0 alsaeedkingtony.com
+0.0.0.0 bowlpiczoo.info
