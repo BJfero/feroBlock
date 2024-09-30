@@ -49,3 +49,4 @@
 0.0.0.0 bowlpiczoo.info
 0.0.0.0 screamedjungle.com
 0.0.0.0 cdnjscloudforced.com
+0.0.0.0 slidesgeek.com
