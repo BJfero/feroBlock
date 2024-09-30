@@ -47,3 +47,4 @@
 0.0.0.0 wecoloringpage.com
 0.0.0.0 alsaeedkingtony.com
 0.0.0.0 bowlpiczoo.info
+0.0.0.0 screamedjungle.com
