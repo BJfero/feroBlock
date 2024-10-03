@@ -50,3 +50,5 @@
 0.0.0.0 screamedjungle.com
 0.0.0.0 cdnjscloudforced.com
 0.0.0.0 slidesgeek.com
+0.0.0.0 maricamckeel.com
+0.0.0.0 epicunitscan.info
