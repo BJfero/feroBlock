@@ -61,3 +61,4 @@
 0.0.0.0 uy.basesfiles.com
 0.0.0.0 shoutcast.mk
 0.0.0.0 pmsspb.net
+0.0.0.0 search.fenrawrye.live
