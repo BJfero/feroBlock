@@ -62,3 +62,7 @@
 0.0.0.0 shoutcast.mk
 0.0.0.0 pmsspb.net
 0.0.0.0 search.fenrawrye.live
+0.0.0.0 autispark.com
+0.0.0.0 dekortekstil.com.mk
+0.0.0.0 filla.com.mk
+0.0.0.0 dwrapper-prod.herokuapp.com
