@@ -66,3 +66,4 @@
 0.0.0.0 dekortekstil.com.mk
 0.0.0.0 filla.com.mk
 0.0.0.0 dwrapper-prod.herokuapp.com
+0.0.0.0 kemofarmacia.com.mk
