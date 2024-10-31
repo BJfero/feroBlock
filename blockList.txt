@@ -68,3 +68,4 @@
 0.0.0.0 dwrapper-prod.herokuapp.com
 0.0.0.0 kemofarmacia.com.mk
 0.0.0.0 cartoonmines.com
+0.0.0.0 pilon.modeltheme.com
