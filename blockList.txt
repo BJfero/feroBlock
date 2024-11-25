@@ -71,3 +71,5 @@
 0.0.0.0 pilon.modeltheme.com
 0.0.0.0 congnghevienthong.com
 0.0.0.0 americanandimportautorepair.com
+0.0.0.0 synottipclub.mk
+0.0.0.0 allaboutcivilengg.com
