@@ -73,3 +73,4 @@
 0.0.0.0 americanandimportautorepair.com
 0.0.0.0 synottipclub.mk
 0.0.0.0 allaboutcivilengg.com
+0.0.0.0 konstruktor.mk
