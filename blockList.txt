@@ -77,3 +77,7 @@
 0.0.0.0 ciss.mk
 0.0.0.0 efes.com.mk
 0.0.0.0 wetrasnfer.com
+0.0.0.0 svoy-vetrogenerator.ru
+0.0.0.0 lakes.mk
+0.0.0.0 proflairs.com
+0.0.0.0 vmail3.styxsolutions.net
