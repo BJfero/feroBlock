@@ -81,3 +81,4 @@
 0.0.0.0 lakes.mk
 0.0.0.0 proflairs.com
 0.0.0.0 vmail3.styxsolutions.net
+0.0.0.0 aerfuture.com
