@@ -82,3 +82,4 @@
 0.0.0.0 proflairs.com
 0.0.0.0 vmail3.styxsolutions.net
 0.0.0.0 aerfuture.com
+0.0.0.0 skr.rs
