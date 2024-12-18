@@ -85,3 +85,4 @@
 0.0.0.0 skr.rs
 0.0.0.0 deling.biz
 0.0.0.0 panoramabh.com
+0.0.0.0 cakralistrik.com
