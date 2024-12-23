@@ -86,3 +86,4 @@
 0.0.0.0 deling.biz
 0.0.0.0 panoramabh.com
 0.0.0.0 cakralistrik.com
+0.0.0.0 synottipclub.mk
