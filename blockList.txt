@@ -94,3 +94,6 @@
 0.0.0.0 superclicks.top
 0.0.0.0 elektricniautomobil.rs
 0.0.0.0 arno.mk
+0.0.0.0 shk-direkt24.de
+0.0.0.0 suspended.page
+0.0.0.0 elektricniautomobil.rs
