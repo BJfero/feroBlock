@@ -104,3 +104,4 @@
 0.0.0.0 donika.mk
 0.0.0.0 ferhadimpex.com.mk
 0.0.0.0 vesnatours.mk
+0.0.0.0 portotravel.rs
