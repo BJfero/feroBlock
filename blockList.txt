@@ -111,3 +111,5 @@
 0.0.0.0 iconstaff.top
 0.0.0.0 softlay.net
 0.0.0.0 go.zdos.ru
+0.0.0.0 zdos.ru
+0.0.0.0 glagolica.mk
