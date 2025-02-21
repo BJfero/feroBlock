@@ -113,3 +113,4 @@
 0.0.0.0 go.zdos.ru
 0.0.0.0 zdos.ru
 0.0.0.0 glagolica.mk
+0.0.0.0 libgen.mx
