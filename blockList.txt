@@ -115,3 +115,4 @@
 0.0.0.0 glagolica.mk
 0.0.0.0 libgen.mx
 0.0.0.0 bookshared.org
+0.0.0.0 netpress.com.mk
