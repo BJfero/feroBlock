@@ -120,3 +120,4 @@
 0.0.0.0 direkten.mk
 0.0.0.0 anamarijaskitchen.com
 0.0.0.0 gastro.mk
+0.0.0.0 printsoasis.net
