@@ -123,3 +123,5 @@
 0.0.0.0 printsoasis.net
 0.0.0.0 herbanatura.mk
 0.0.0.0 filla.com.mk
+0.0.0.0 sx-common-v4.volcgtm.com
+0.0.0.0 volcgtm.com
