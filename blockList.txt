@@ -127,3 +127,6 @@
 0.0.0.0 centumnetworks.com
 0.0.0.0 ptmount.com
 0.0.0.0 kristal.mk
+0.0.0.0 sx-common-v4.volcgtm.com
+0.0.0.0 radio.jazzfm.mk
+0.0.0.0 objectstorage.ap-singapore-2.oraclecloud.com
