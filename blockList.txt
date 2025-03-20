@@ -130,3 +130,4 @@
 0.0.0.0 sx-common-v4.volcgtm.com
 0.0.0.0 radio.jazzfm.mk
 0.0.0.0 objectstorage.ap-singapore-2.oraclecloud.com
+0.0.0.0 z-lib.id
