@@ -131,3 +131,4 @@
 0.0.0.0 radio.jazzfm.mk
 0.0.0.0 objectstorage.ap-singapore-2.oraclecloud.com
 0.0.0.0 z-lib.id
+0.0.0.0 atecaforums.co.uk
