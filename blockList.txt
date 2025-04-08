@@ -136,3 +136,4 @@
 0.0.0.0 wearychallengeraise.com
 0.0.0.0 pixel-see.com
 0.0.0.0 pubtrky.com
+0.0.0.0 gemak.mk
