@@ -137,3 +137,8 @@
 0.0.0.0 pixel-see.com
 0.0.0.0 pubtrky.com
 0.0.0.0 gemak.mk
+0.0.0.0 movies.zsw.ca
+0.0.0.0 auctor.tv
+0.0.0.0 therarbg.com
+0.0.0.0 rakometzasekoedete.mk
+0.0.0.0 quickerapparently.com
