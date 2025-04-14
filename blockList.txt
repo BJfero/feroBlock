@@ -144,3 +144,5 @@
 0.0.0.0 quickerapparently.com
 0.0.0.0 anakristibigorski.mk
 0.0.0.0 dl.edge-aicdn.net
+0.0.0.0 participationwhitehandwriting.com
+0.0.0.0 straightforwardaudition.com
