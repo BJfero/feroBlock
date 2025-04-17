@@ -146,3 +146,5 @@
 0.0.0.0 dl.edge-aicdn.net
 0.0.0.0 participationwhitehandwriting.com
 0.0.0.0 straightforwardaudition.com
+0.0.0.0 pl24065141.cpmrevenuegate.com
+0.0.0.0 cpmrevenuegate.com
