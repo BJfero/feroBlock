@@ -148,3 +148,5 @@
 0.0.0.0 straightforwardaudition.com
 0.0.0.0 pl24065141.cpmrevenuegate.com
 0.0.0.0 cpmrevenuegate.com
+0.0.0.0 pl24065141.cpmrevenuegate.com
+0.0.0.0 cdn1.massearchtraffic.top
