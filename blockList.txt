@@ -151,3 +151,5 @@
 0.0.0.0 cdn1.massearchtraffic.top
 0.0.0.0 mask.apple-dns.net
 0.0.0.0 amplify.outbrai.com
+0.0.0.0 dossier.bluecaffeine.io
+0.0.0.0 dimas.mk
