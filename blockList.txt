@@ -156,3 +156,6 @@
 0.0.0.0 greencorner.rs
 0.0.0.0 79.124.58.198
 0.0.0.0 dossier.bluecaffeine.io
+0.0.0.0 vo1d_botnet:z-lib.id
+0.0.0.0 metaldetektori.rs
+0.0.0.0 adriabager.com
