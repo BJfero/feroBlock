@@ -159,3 +159,5 @@
 0.0.0.0 vo1d_botnet:z-lib.id
 0.0.0.0 metaldetektori.rs
 0.0.0.0 adriabager.com
+0.0.0.0 unioffice.com.mk
+0.0.0.0 triling.mk
