@@ -161,3 +161,6 @@
 0.0.0.0 adriabager.com
 0.0.0.0 unioffice.com.mk
 0.0.0.0 triling.mk
+0.0.0.0 shotgunchancecruel.com
+0.0.0.0 wearychallengeraise.com
+0.0.0.0 pl24065141.cpmrevenuegate.com
