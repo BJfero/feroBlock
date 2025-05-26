@@ -162,3 +162,4 @@
 0.0.0.0 triling.mk
 0.0.0.0 shotgunchancecruel.com
 0.0.0.0 wearychallengeraise.com
+0.0.0.0 pofezaf.com
