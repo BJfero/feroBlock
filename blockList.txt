@@ -157,7 +157,6 @@
 0.0.0.0 dossier.bluecaffeine.io
 0.0.0.0 vo1d_botnet:z-lib.id
 0.0.0.0 metaldetektori.rs
-0.0.0.0 adriabager.com
 0.0.0.0 unioffice.com.mk
 0.0.0.0 triling.mk
 0.0.0.0 shotgunchancecruel.com
@@ -168,3 +167,4 @@
 0.0.0.0 info.semed.mk
 0.0.0.0 traveljk.com
 0.0.0.0 nannyirrationalacquainted.com
+0.0.0.0 chatebrd.bipsolutions.co.uk
