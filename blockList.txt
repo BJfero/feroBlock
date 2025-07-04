@@ -172,3 +172,4 @@
 0.0.0.0 konekt.mk
 0.0.0.0 applytoday-jobs.com
 0.0.0.0 adriabager.com
+0.0.0.0 eastwest.cn
