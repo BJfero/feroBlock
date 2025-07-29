@@ -175,3 +175,5 @@
 0.0.0.0 eastwest.cn
 0.0.0.0 idsbiolozi.com
 0.0.0.0 trkpc.net
+0.0.0.0 usrpubtrk.com
+0.0.0.0 mixiblefarmout.top
