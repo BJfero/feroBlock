@@ -179,3 +179,4 @@
 0.0.0.0 mixiblefarmout.top
 0.0.0.0 intelisale.com
 0.0.0.0 stilzelezo.com.mk
+0.0.0.0 testendpoint.com
