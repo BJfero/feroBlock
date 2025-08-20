@@ -182,3 +182,4 @@
 0.0.0.0 testendpoint.com
 0.0.0.0 rasvetakandela.com
 0.0.0.0 legacy-edis.site
+0.0.0.0 pausingrespectfully.com
