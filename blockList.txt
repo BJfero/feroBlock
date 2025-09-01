@@ -186,3 +186,7 @@
 0.0.0.0 rashcolonizeexpand.com
 0.0.0.0 weirdopt.com
 0.0.0.0 grandkopaonik.com
+0.0.0.0 mask.apple-dns.net
+0.0.0.0 mask-h2.icloud.com
+0.0.0.0 mask.icloud.com
+0.0.0.0 sdatacloud.com
