@@ -190,3 +190,4 @@
 0.0.0.0 mask-h2.icloud.com
 0.0.0.0 mask.icloud.com
 0.0.0.0 sdatacloud.com
+0.0.0.0 inhand-router.com
