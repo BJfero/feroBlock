@@ -192,3 +192,4 @@
 0.0.0.0 sdatacloud.com
 0.0.0.0 inhand-router.com
 0.0.0.0 highperformanceformat.com
+0.0.0.0 promedikaoftalmologija.mk
