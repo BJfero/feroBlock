@@ -193,3 +193,5 @@
 0.0.0.0 inhand-router.com
 0.0.0.0 highperformanceformat.com
 0.0.0.0 promedikaoftalmologija.mk
+0.0.0.0 s1.cmsnebula.com
+0.0.0.0 cmsnebula.com
