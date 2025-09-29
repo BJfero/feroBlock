@@ -197,3 +197,16 @@
 0.0.0.0 cmsnebula.com
 0.0.0.0 avant2go.mk
 0.0.0.0 sokolturnir.mk
+0.0.0.0 peskara.com
+0.0.0.0 revenuecpmgate.com
+0.0.0.0 lifestyle.mk
+0.0.0.0 gastro.mk
+0.0.0.0 iqup.mk
+0.0.0.0 usrpubtrk.com
+0.0.0.0 adexchangeclear.com
+0.0.0.0 brightvpn.com
+0.0.0.0 yfdnza.com
+0.0.0.0 hacptcha.com
+0.0.0.0 a-gems.com
+0.0.0.0 avant2go.mk
+0.0.0.0 sokolturnir.mk
