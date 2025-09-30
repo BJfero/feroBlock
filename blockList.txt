@@ -211,3 +211,7 @@
 0.0.0.0 avant2go.mk
 0.0.0.0 sokolturnir.mk
 0.0.0.0 beegrenugoz.com
+0.0.0.0 hardwarecity.com.sg
+0.0.0.0 kinoverzum.mk
+0.0.0.0 vin7.pbs.ovhnextmillmedia.com
+0.0.0.0 ovhnextmillmedia.com
