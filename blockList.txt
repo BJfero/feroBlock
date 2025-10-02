@@ -216,3 +216,4 @@
 0.0.0.0 vin7.pbs.ovhnextmillmedia.com
 0.0.0.0 ovhnextmillmedia.com
 0.0.0.0 konekt.mk
+0.0.0.0 vianoil.com
