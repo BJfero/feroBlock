@@ -219,3 +219,4 @@
 0.0.0.0 vianoil.com
 0.0.0.0 addinol-shop.de
 0.0.0.0 daddylive.dad
+0.0.0.0 exo.mk
