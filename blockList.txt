@@ -220,3 +220,5 @@
 0.0.0.0 addinol-shop.de
 0.0.0.0 daddylive.dad
 0.0.0.0 exo.mk
+0.0.0.0 geoip-db.com
+0.0.0.0 y2bee.com
