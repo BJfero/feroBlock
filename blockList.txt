@@ -226,3 +226,5 @@
 0.0.0.0 intelisale.com
 0.0.0.0 upravitelplus.mk
 0.0.0.0 spareairless.com
+0.0.0.0 my.store-emails.com
+0.0.0.0 store-emails.com
