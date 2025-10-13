@@ -225,3 +225,4 @@
 0.0.0.0 expressapisv2.net
 0.0.0.0 intelisale.com
 0.0.0.0 upravitelplus.mk
+0.0.0.0 spareairless.com
