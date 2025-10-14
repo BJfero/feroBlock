@@ -228,3 +228,11 @@
 0.0.0.0 spareairless.com
 0.0.0.0 my.store-emails.com
 0.0.0.0 store-emails.com
+0.0.0.0 cf-session.cloud
+0.0.0.0 ts4.tc.mm.bing.net.eo.dnse3.com
+0.0.0.0 dnse3.com
+0.0.0.0 seamylygeum.com
+0.0.0.0 ym.seamylygeum.com
+0.0.0.0 spareairless.com
+0.0.0.0 preferencenail.com
+0.0.0.0 weirdopt.com
