@@ -236,3 +236,10 @@
 0.0.0.0 spareairless.com
 0.0.0.0 preferencenail.com
 0.0.0.0 weirdopt.com
+0.0.0.0 rashcolonizeexpand.com
+0.0.0.0 pelanet.mk
+0.0.0.0 tom.hr
+0.0.0.0 turist.com.mk
+0.0.0.0 upravitelplus.mk
+0.0.0.0 elektrobagoly.hu
+0.0.0.0 googletagmahager.com
