@@ -243,3 +243,6 @@
 0.0.0.0 upravitelplus.mk
 0.0.0.0 elektrobagoly.hu
 0.0.0.0 googletagmahager.com
+0.0.0.0 difuma.com
+0.0.0.0 nordvpn.com
+0.0.0.0 lyseca.com
