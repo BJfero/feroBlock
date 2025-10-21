@@ -246,3 +246,4 @@
 0.0.0.0 difuma.com
 0.0.0.0 nordvpn.com
 0.0.0.0 lyseca.com
+0.0.0.0 espreso.co.rs
