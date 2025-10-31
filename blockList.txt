@@ -295,3 +295,5 @@
 0.0.0.0 skinnycrawlinglax.com
 0.0.0.0 cloudhdwallpapers.com
 0.0.0.0 incidental.com.tr
+0.0.0.0 huadongcablegroup.com
+0.0.0.0 superbwishes.com
