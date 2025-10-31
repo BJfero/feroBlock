@@ -290,3 +290,8 @@
 0.0.0.0 nordvpn.zendesk.com
 0.0.0.0 24info.mk
 0.0.0.0 rakometzasekoedete.mk
+0.0.0.0 globaltrendz.co.za
+0.0.0.0 sourshaped.com
+0.0.0.0 skinnycrawlinglax.com
+0.0.0.0 cloudhdwallpapers.com
+0.0.0.0 incidental.com.tr
