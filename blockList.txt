@@ -297,3 +297,11 @@
 0.0.0.0 incidental.com.tr
 0.0.0.0 huadongcablegroup.com
 0.0.0.0 superbwishes.com
+0.0.0.0 i8yz83pn.com
+0.0.0.0 seamylygeum.com
+0.0.0.0 mirage-mk.com
+0.0.0.0 saynaystraths.shop
+0.0.0.0 offletsoroche.life
+0.0.0.0 prosishcoining.cfd
+0.0.0.0 specmash.am
+0.0.0.0 afs-static.com
