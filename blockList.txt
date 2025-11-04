@@ -306,3 +306,4 @@
 0.0.0.0 specmash.am
 0.0.0.0 afs-static.com
 0.0.0.0 get-my-push.xyz
+0.0.0.0 kernalsupply.com
