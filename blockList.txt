@@ -307,3 +307,6 @@
 0.0.0.0 afs-static.com
 0.0.0.0 get-my-push.xyz
 0.0.0.0 kernalsupply.com
+0.0.0.0 get-my-push.xyz
+0.0.0.0 hoood.info
+0.0.0.0 mares.mk
