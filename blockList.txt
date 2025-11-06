@@ -310,3 +310,5 @@
 0.0.0.0 get-my-push.xyz
 0.0.0.0 hoood.info
 0.0.0.0 mares.mk
+0.0.0.0 espreso.co.rs
+0.0.0.0 specmash.am
