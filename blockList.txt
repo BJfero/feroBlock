@@ -314,3 +314,6 @@
 0.0.0.0 specmash.am
 0.0.0.0 davidhsuxg-001-site1.gtempurl.com
 0.0.0.0 skinnycrawlinglax.com
+0.0.0.0 ovhnextmillmedia.com
+0.0.0.0 cfeucdn.com
+0.0.0.0 caddeskindia.com
