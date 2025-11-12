@@ -312,7 +312,7 @@
 0.0.0.0 mares.mk
 0.0.0.0 espreso.co.rs
 0.0.0.0 specmash.am
-0.0.0.0 davidhsuxg-001-site1.gtempurl.com
+0.0.0.0 gtempurl.com
 0.0.0.0 skinnycrawlinglax.com
 0.0.0.0 ovhnextmillmedia.com
 0.0.0.0 cfeucdn.com
