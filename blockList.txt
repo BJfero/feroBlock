@@ -317,3 +317,12 @@
 0.0.0.0 ovhnextmillmedia.com
 0.0.0.0 cfeucdn.com
 0.0.0.0 caddeskindia.com
+0.0.0.0 dvornik.com.mk
+0.0.0.0 premilkyway.com
+0.0.0.0 pousadaubatubatropical.com.br
+0.0.0.0 popcorntime-update.xyz
+0.0.0.0 uibitumen.com
+0.0.0.0 laneex.com
+0.0.0.0 extratorrent.ag
+0.0.0.0 katcr.co
+0.0.0.0 4863232c.xyz
