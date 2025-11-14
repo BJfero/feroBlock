@@ -326,3 +326,7 @@
 0.0.0.0 extratorrent.ag
 0.0.0.0 katcr.co
 0.0.0.0 4863232c.xyz
+0.0.0.0 capitolcam.net
+0.0.0.0 seamylygeum.com
+0.0.0.0 hdtodayz.to
+0.0.0.0 uibitumen.com
