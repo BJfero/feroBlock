@@ -329,4 +329,11 @@
 0.0.0.0 capitolcam.net
 0.0.0.0 seamylygeum.com
 0.0.0.0 hdtodayz.to
-0.0.0.0 uibitumen.com
+0.0.0.0 voltkart.in
+0.0.0.0 thepiratebay0.org
+0.0.0.0 sourshaped.com
+0.0.0.0 realizationnewestfangs.com
+0.0.0.0 matchboxkits.org
+0.0.0.0 indianbikesspares.com
+0.0.0.0 onlinebookshop.pk
+
