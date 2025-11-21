@@ -339,3 +339,4 @@
 0.0.0.0 rotaryclubprilep.org.mk
 0.0.0.0 thebestpdf.com
 0.0.0.0 meyragroup.com
+0.0.0.0 homelight.mk
