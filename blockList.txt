@@ -350,3 +350,8 @@
 0.0.0.0 880a6212c5.com
 0.0.0.0 eiscprts.com
 0.0.0.0 pretrackings.com
+0.0.0.0 chaotui.net
+0.0.0.0 lovecdn.ru
+0.0.0.0 publiccolumnsnotebook.com
+0.0.0.0 outlawshop.net
+0.0.0.0 yfdnzf.com
