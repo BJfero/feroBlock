@@ -357,9 +357,10 @@
 0.0.0.0 yfdnzf.com
 0.0.0.0 realizationnewestfangs.com
 0.0.0.0 outlawshop.net
-0.0.0.0 meyragroup.com
 0.0.0.0 creationpartnershipputrescent.com
 0.0.0.0 ongoingheavenlynourishing.com
 0.0.0.0 b1733e915d.com
 0.0.0.0 limkedin.com
 0.0.0.0 1abzar.ir
+0.0.0.0 telega.one
+0.0.0.0 motivi.mk
