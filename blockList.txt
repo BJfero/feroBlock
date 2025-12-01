@@ -364,3 +364,4 @@
 0.0.0.0 1abzar.ir
 0.0.0.0 telega.one
 0.0.0.0 motivi.mk
+0.0.0.0 monstermall.com.co
