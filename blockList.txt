@@ -365,3 +365,6 @@
 0.0.0.0 telega.one
 0.0.0.0 motivi.mk
 0.0.0.0 monstermall.com.co
+0.0.0.0 dodajgas.mk
+0.0.0.0 hewayofmoney.us
+0.0.0.0 offerscollectors.com
