@@ -368,3 +368,4 @@
 0.0.0.0 dodajgas.mk
 0.0.0.0 hewayofmoney.us
 0.0.0.0 offerscollectors.com
+0.0.0.0 captainstick.com
