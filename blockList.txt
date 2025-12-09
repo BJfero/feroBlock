@@ -370,3 +370,4 @@
 0.0.0.0 offerscollectors.com
 0.0.0.0 captainstick.com
 0.0.0.0 mladtehnik.com
+0.0.0.0 stablediffusionxl.com
