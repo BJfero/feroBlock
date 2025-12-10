@@ -373,3 +373,4 @@
 0.0.0.0 stablediffusionxl.com
 0.0.0.0 lasdkakd.com
 0.0.0.0 radio.shoutcast.mk
+0.0.0.0 https.radio.shoutcast.mk
