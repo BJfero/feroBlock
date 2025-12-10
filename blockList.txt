@@ -372,3 +372,4 @@
 0.0.0.0 mladtehnik.com
 0.0.0.0 stablediffusionxl.com
 0.0.0.0 lasdkakd.com
+0.0.0.0 radio.shoutcast.mk
