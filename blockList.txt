@@ -232,7 +232,6 @@
 0.0.0.0 ts4.tc.mm.bing.net.eo.dnse3.com
 0.0.0.0 dnse3.com
 0.0.0.0 seamylygeum.com
-0.0.0.0 ym.seamylygeum.com
 0.0.0.0 spareairless.com
 0.0.0.0 preferencenail.com
 0.0.0.0 weirdopt.com
@@ -256,8 +255,6 @@
 0.0.0.0 bellina.mk
 0.0.0.0 xb.refeigngalas.com
 0.0.0.0 stocackaitsim.net
-0.0.0.0 ym.seamylygeum.com
-0.0.0.0 seamylygeum.com
 0.0.0.0 popcorntime-update.xyz
 0.0.0.0 js.onclckbnr.com
 0.0.0.0 onclckbnr.com
@@ -298,7 +295,6 @@
 0.0.0.0 huadongcablegroup.com
 0.0.0.0 superbwishes.com
 0.0.0.0 i8yz83pn.com
-0.0.0.0 seamylygeum.com
 0.0.0.0 mirage-mk.com
 0.0.0.0 saynaystraths.shop
 0.0.0.0 offletsoroche.life
@@ -327,7 +323,6 @@
 0.0.0.0 katcr.co
 0.0.0.0 4863232c.xyz
 0.0.0.0 capitolcam.net
-0.0.0.0 seamylygeum.com
 0.0.0.0 hdtodayz.to
 0.0.0.0 voltkart.in
 0.0.0.0 thepiratebay0.org
@@ -375,3 +370,7 @@
 0.0.0.0 vedetaavon.ro
 0.0.0.0 hurelax.com
 0.0.0.0 yts.lt
+0.0.0.0 unlashchaule.qpon
+0.0.0.0 claithfoiter.click
+0.0.0.0 searchapp.space
+0.0.0.0 fondleaegipan.shop
