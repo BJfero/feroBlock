@@ -378,3 +378,6 @@
 0.0.0.0 demonii.com
 0.0.0.0 webcompanion.com
 0.0.0.0 mimimuzika.com.mk
+0.0.0.0 80.97.160.144
+0.0.0.0 veldom.mk
+0.0.0.0 93.123.109.191
