@@ -11,7 +11,7 @@
 0.0.0.0 trgo24.com
 0.0.0.0 rapid.si
 0.0.0.0 peskpdfgif.shop
-0.0.0.0 cdn.iconstaff.top
+0.0.0.0 iconstaff.top
 0.0.0.0 share-dns.net
 0.0.0.0 hart.mk
 0.0.0.0 prolink.mk
