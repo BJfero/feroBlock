@@ -340,7 +340,6 @@
 0.0.0.0 dexpredict.com
 0.0.0.0 paternitymarmaladethirteen.com
 0.0.0.0 oxacidloaves.help
-0.0.0.0 offletsoroche.life
 0.0.0.0 cb0b6ebc92.com
 0.0.0.0 880a6212c5.com
 0.0.0.0 eiscprts.com
@@ -360,7 +359,6 @@
 0.0.0.0 telega.one
 0.0.0.0 motivi.mk
 0.0.0.0 monstermall.com.co
-0.0.0.0 dodajgas.mk
 0.0.0.0 hewayofmoney.us
 0.0.0.0 offerscollectors.com
 0.0.0.0 captainstick.com
@@ -385,3 +383,4 @@
 0.0.0.0 groupdocs.app
 0.0.0.0 abamawristed.shop
 0.0.0.0 7c1569a605.com
+0.0.0.0 swisslion-takovo.com
