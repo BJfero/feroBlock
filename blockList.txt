@@ -4,7 +4,7 @@
 0.0.0.0 konsaltingpekovic.mk
 0.0.0.0 koncar.com.mk
 0.0.0.0 bugsklocman.ddns.net
-0.0.0.0 doh.cq0.co
+0.0.0.0 cq0.co
 0.0.0.0 magazinm.net
 0.0.0.0 crnagoravijesti.me
 0.0.0.0 prakticnazena.net
