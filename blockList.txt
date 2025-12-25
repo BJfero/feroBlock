@@ -377,3 +377,4 @@
 0.0.0.0 abamawristed.shop
 0.0.0.0 7c1569a605.com
 0.0.0.0 swisslion-takovo.com
+0.0.0.0 daringsupport.com
