@@ -380,3 +380,4 @@
 0.0.0.0 daringsupport.com
 0.0.0.0 xvideos-cdn.com
 0.0.0.0 peakpx.com
+0.0.0.0 wallpaperflare.com
