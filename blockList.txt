@@ -381,3 +381,7 @@
 0.0.0.0 xvideos-cdn.com
 0.0.0.0 peakpx.com
 0.0.0.0 wallpaperflare.com
+0.0.0.0 chimedperturb.com
+0.0.0.0 bing3d.top
+0.0.0.0 obqj2.com
+0.0.0.0 minepi.com
