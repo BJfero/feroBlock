@@ -385,3 +385,5 @@
 0.0.0.0 bing3d.top
 0.0.0.0 obqj2.com
 0.0.0.0 minepi.com
+0.0.0.0 myflixerz.to
+0.0.0.0 videoteka.info
