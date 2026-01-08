@@ -387,4 +387,4 @@
 0.0.0.0 minepi.com
 0.0.0.0 myflixerz.to
 0.0.0.0 videoteka.info
-netpress.com.mk
+0.0.0.0 netpress.com.mk
