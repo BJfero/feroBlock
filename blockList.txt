@@ -392,3 +392,4 @@
 0.0.0.0 consortshaheen.shop
 0.0.0.0 rel-s.com
 0.0.0.0 pectationselea.info
+0.0.0.0 flashlabs.ai
