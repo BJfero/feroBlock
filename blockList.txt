@@ -394,3 +394,5 @@
 0.0.0.0 pectationselea.info
 0.0.0.0 flashlabs.ai
 0.0.0.0 hongdacable.com
+0.0.0.0 fastway01.biz
+0.0.0.0 irl.com
