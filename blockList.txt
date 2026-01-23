@@ -400,3 +400,5 @@
 0.0.0.0 vedetaavon.ro
 0.0.0.0 sfc.bb.mk
 0.0.0.0 bb.mk
+0.0.0.0 youstarsbuilding.com
+0.0.0.0 dinelovear.click
