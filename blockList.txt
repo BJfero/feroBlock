@@ -410,3 +410,4 @@
 0.0.0.0 sootoarathus.net
 0.0.0.0 burkhakalekah.com
 0.0.0.0 effectivegatecpm.com
+0.0.0.0 app28base.site
