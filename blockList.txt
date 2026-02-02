@@ -411,3 +411,7 @@
 0.0.0.0 burkhakalekah.com
 0.0.0.0 effectivegatecpm.com
 0.0.0.0 app28base.site
+0.0.0.0 huntforenenst.com
+0.0.0.0 ecommercart.com
+0.0.0.0 serveonsite.com
+0.0.0.0 wonplug.com
