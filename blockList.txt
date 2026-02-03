@@ -415,3 +415,7 @@
 0.0.0.0 ecommercart.com
 0.0.0.0 serveonsite.com
 0.0.0.0 wonplug.com
+0.0.0.0 cfmoto.rs
+0.0.0.0 pcdelv.com
+0.0.0.0 adzilla.meme
+0.0.0.0 anguished-dirt.com
