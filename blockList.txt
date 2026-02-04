@@ -419,3 +419,6 @@
 0.0.0.0 pcdelv.com
 0.0.0.0 adzilla.meme
 0.0.0.0 anguished-dirt.com
+0.0.0.0 ccgcg.com
+0.0.0.0 kera.click
+0.0.0.0 a.kera.click
