@@ -422,3 +422,6 @@
 0.0.0.0 ccgcg.com
 0.0.0.0 kera.click
 0.0.0.0 a.kera.click
+0.0.0.0 weebly.com
+0.0.0.0 2477april2024.com
+0.0.0.0 accautomation.ca
