@@ -430,3 +430,7 @@
 0.0.0.0 omegatootler.rest
 0.0.0.0 usesmock.top
 0.0.0.0 jayantwhaling.shop
+0.0.0.0 exppxxclck.com
+0.0.0.0 profitabledisplaynetwork.com
+0.0.0.0 qtraffic.me
+0.0.0.0 lager-doo.com
