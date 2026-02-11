@@ -434,3 +434,4 @@
 0.0.0.0 profitabledisplaynetwork.com
 0.0.0.0 qtraffic.me
 0.0.0.0 lager-doo.com
+0.0.0.0 bipsolutions.co.uk
