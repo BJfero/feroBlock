@@ -438,3 +438,4 @@
 0.0.0.0 staticec.com
 0.0.0.0 gumaterm.com.mk
 0.0.0.0 liveinternet.ru
+0.0.0.0 medan.rs
