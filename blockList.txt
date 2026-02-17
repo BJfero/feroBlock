@@ -439,3 +439,8 @@
 0.0.0.0 gumaterm.com.mk
 0.0.0.0 liveinternet.ru
 0.0.0.0 medan.rs
+0.0.0.0 serv1swork.com
+0.0.0.0 uguu.se
+0.0.0.0 cuk-gov.com
+0.0.0.0 2korriku.com
+0.0.0.0 supervrata.com
