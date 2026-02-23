@@ -451,4 +451,5 @@
 0.0.0.0 echonverforrinho.info
 0.0.0.0 37.9.175.187:443
 0.0.0.0 peedline.al
-
+0.0.0.0 oda.mk
+0.0.0.0 lexlib.fi
