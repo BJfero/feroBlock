@@ -160,7 +160,6 @@
 0.0.0.0 info.semed.mk
 0.0.0.0 traveljk.com
 0.0.0.0 nannyirrationalacquainted.com
-0.0.0.0 chatebrd.bipsolutions.co.uk
 0.0.0.0 mk.extremeintimo.com
 0.0.0.0 konekt.mk
 0.0.0.0 applytoday-jobs.com
@@ -453,3 +452,5 @@
 0.0.0.0 peedline.al
 0.0.0.0 oda.mk
 0.0.0.0 lexlib.fi
+0.0.0.0 garden-max.eu
+0.0.0.0 ohridskikomunalec.com.mk
