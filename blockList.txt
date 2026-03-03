@@ -454,3 +454,4 @@
 0.0.0.0 lexlib.fi
 0.0.0.0 garden-max.eu
 0.0.0.0 ohridskikomunalec.com.mk
+0.0.0.0 najnovije.live
