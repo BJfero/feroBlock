@@ -455,3 +455,12 @@
 0.0.0.0 garden-max.eu
 0.0.0.0 ohridskikomunalec.com.mk
 0.0.0.0 najnovije.live
+0.0.0.0 dai-suki.click
+0.0.0.0 itechtics.com
+0.0.0.0 brprofi.ru
+0.0.0.0 dotaplabs.net
+0.0.0.0 ghabovethec.info
+0.0.0.0 oundhertobeconsist.org
+0.0.0.0 dokondigit.quest
+0.0.0.0 elektropromet.com.mk
+0.0.0.0 sci-hub.in
