@@ -464,3 +464,6 @@
 0.0.0.0 dokondigit.quest
 0.0.0.0 elektropromet.com.mk
 0.0.0.0 sci-hub.in
+0.0.0.0 cupularstriae.shop
+0.0.0.0 liccayouth.top
+0.0.0.0 defacesirras.click
