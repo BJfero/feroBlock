@@ -469,3 +469,5 @@
 0.0.0.0 defacesirras.click
 0.0.0.0 romewise.com
 0.0.0.0 macon-ae.com
+0.0.0.0 koreni.rs
+0.0.0.0 
