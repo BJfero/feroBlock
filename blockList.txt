@@ -470,4 +470,5 @@
 0.0.0.0 romewise.com
 0.0.0.0 macon-ae.com
 0.0.0.0 koreni.rs
-0.0.0.0 
+0.0.0.0 liferx.fit
+0.0.0.0 beecompose.com
