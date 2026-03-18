@@ -472,3 +472,4 @@
 0.0.0.0 koreni.rs
 0.0.0.0 liferx.fit
 0.0.0.0 beecompose.com
+0.0.0.0 afg.com.mk
