@@ -474,3 +474,4 @@
 0.0.0.0 beecompose.com
 0.0.0.0 afg.com.mk
 0.0.0.0 itslife.in
+0.0.0.0 weatherbug.net
