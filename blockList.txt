@@ -481,3 +481,4 @@
 0.0.0.0 provatidis.gr
 0.0.0.0 maltainfoguide.com
 0.0.0.0 agirlenroute.com
+0.0.0.0 cdnstats.top
