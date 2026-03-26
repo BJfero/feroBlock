@@ -482,3 +482,4 @@
 0.0.0.0 maltainfoguide.com
 0.0.0.0 agirlenroute.com
 0.0.0.0 cdnstats.top
+0.0.0.0 gugo.mk
