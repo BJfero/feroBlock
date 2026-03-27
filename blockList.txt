@@ -483,3 +483,5 @@
 0.0.0.0 agirlenroute.com
 0.0.0.0 cdnstats.top
 0.0.0.0 gugo.mk
+0.0.0.0 sportsonline.top
+0.0.0.0 digiboy.ir
