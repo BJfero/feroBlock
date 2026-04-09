@@ -509,3 +509,4 @@
 0.0.0.0 gugo.com.mk
 0.0.0.0 ozone.ru
 0.0.0.0 mystartsearch.com
+0.0.0.0 o9trf8.net
