@@ -467,3 +467,5 @@
 0.0.0.0 ozone.ru
 0.0.0.0 mystartsearch.com
 0.0.0.0 o9trf8.net
+0.0.0.0 globalso.top
+0.0.0.0 corralsspatio.shop
