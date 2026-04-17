@@ -469,3 +469,5 @@
 0.0.0.0 o9trf8.net
 0.0.0.0 globalso.top
 0.0.0.0 corralsspatio.shop
+0.0.0.0 goldirablueprint.com
+0.0.0.0 gcdn.ac
