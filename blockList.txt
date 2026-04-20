@@ -471,3 +471,4 @@
 0.0.0.0 corralsspatio.shop
 0.0.0.0 goldirablueprint.com
 0.0.0.0 gcdn.ac
+0.0.0.0 fafda.to
