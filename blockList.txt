@@ -472,3 +472,5 @@
 0.0.0.0 goldirablueprint.com
 0.0.0.0 gcdn.ac
 0.0.0.0 fafda.to
+0.0.0.0 content-website-analytics.com
+0.0.0.0 thecapsuleshop.mk
