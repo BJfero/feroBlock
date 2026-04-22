@@ -474,3 +474,5 @@
 0.0.0.0 fafda.to
 0.0.0.0 content-website-analytics.com
 0.0.0.0 thecapsuleshop.mk
+0.0.0.0 nearlyfooeyminus.com
+0.0.0.0 kobex.mk
