@@ -476,3 +476,5 @@
 0.0.0.0 thecapsuleshop.mk
 0.0.0.0 nearlyfooeyminus.com
 0.0.0.0 kobex.mk
+0.0.0.0 automoto.id
+0.0.0.0 bootcdn.net
