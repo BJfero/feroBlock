@@ -478,3 +478,16 @@
 0.0.0.0 kobex.mk
 0.0.0.0 automoto.id
 0.0.0.0 bootcdn.net
+0.0.0.0 primatex.com.mk
+0.0.0.0 workdeadlinededicate.com
+0.0.0.0 shikosharply.shop
+0.0.0.0 exmainclcknew.com
+0.0.0.0 newsboydurance.cfd
+0.0.0.0 dalasnamestaj.com
+0.0.0.0 stilski-namestaj.com
+0.0.0.0 sibautomation.com
+0.0.0.0 home4u.mk
+0.0.0.0 insecthoney.xyz
+0.0.0.0 chsscout.net
+0.0.0.0 mycast.io
+0.0.0.0 baxi.ru
