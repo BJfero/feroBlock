@@ -491,3 +491,5 @@
 0.0.0.0 chsscout.net
 0.0.0.0 mycast.io
 0.0.0.0 baxi.ru
+0.0.0.0 dropboxusercontent.com
+0.0.0.0 dntds.shop
