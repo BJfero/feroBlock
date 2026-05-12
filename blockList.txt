@@ -493,3 +493,4 @@
 0.0.0.0 baxi.ru
 0.0.0.0 dropboxusercontent.com
 0.0.0.0 dntds.shop
+0.0.0.0 nttdss.shop
