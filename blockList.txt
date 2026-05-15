@@ -494,3 +494,8 @@
 0.0.0.0 dropboxusercontent.com
 0.0.0.0 dntds.shop
 0.0.0.0 nttdss.shop
+0.0.0.0 o9trf8.net
+0.0.0.0 nttogetherefwukoul.org
+0.0.0.0 file.garden
+0.0.0.0 wnouncillorswhowish.com
+0.0.0.0 wincmd.ru
