@@ -502,3 +502,9 @@
 0.0.0.0 gijsve.nl
 0.0.0.0 crustywindo.ws
 0.0.0.0 activestate.com
+0.0.0.0 ldrws.com
+0.0.0.0 maykoski.com
+0.0.0.0 cbnme.com
+0.0.0.0 ujp.mk
+0.0.0.0 spedtest.net
+0.0.0.0 wonfo.it.com
