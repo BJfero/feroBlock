@@ -511,3 +511,6 @@
 0.0.0.0 tennis2table.com
 0.0.0.0 petocart.com
 0.0.0.0 catalogo.bn.gov.ar
+0.0.0.0 rdxgo.click
+0.0.0.0 opaqueshellsoftsmoke.monster
+0.0.0.0 web-tools.cloud
