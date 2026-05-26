@@ -514,3 +514,16 @@
 0.0.0.0 rdxgo.click
 0.0.0.0 opaqueshellsoftsmoke.monster
 0.0.0.0 web-tools.cloud
+0.0.0.0 beiweimall.com
+0.0.0.0 indoweb.org
+0.0.0.0 97188.com
+0.0.0.0 gitverse.ru
+0.0.0.0 planetarysystems.org
+0.0.0.0 chaincatcher.com
+0.0.0.0 e-skafos.gr
+0.0.0.0 sermilitar.store
+0.0.0.0 petset.com.pk
+0.0.0.0 pimpmypooch.ie
+0.0.0.0 voxpower.com.cn
+0.0.0.0 xtrons.com
+0.0.0.0 wetransfer.mk
