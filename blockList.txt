@@ -527,3 +527,5 @@
 0.0.0.0 voxpower.com.cn
 0.0.0.0 xtrons.com
 0.0.0.0 wetransfer.mk
+0.0.0.0 autonexit.com
+0.0.0.0 cpajoliette.com
