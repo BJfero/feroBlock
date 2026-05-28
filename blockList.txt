@@ -529,3 +529,4 @@
 0.0.0.0 wetransfer.mk
 0.0.0.0 autonexit.com
 0.0.0.0 cpajoliette.com
+0.0.0.0 zorluteks.com.mk
