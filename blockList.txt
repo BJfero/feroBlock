@@ -546,3 +546,6 @@
 0.0.0.0 perimeterx.net
 0.0.0.0 radardetector.net
 0.0.0.0 pec11okt.com.mk
+0.0.0.0 yfdnza.com
+0.0.0.0 northwavepoint.com
+0.0.0.0 tryinnerly.com
