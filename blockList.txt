@@ -555,4 +555,4 @@
 0.0.0.0 sahara-resort.com
 0.0.0.0 fastlygo.mk
 0.0.0.0 klnpishu.click
-
+0.0.0.0 funciona.com.br
