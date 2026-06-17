@@ -562,3 +562,7 @@
 0.0.0.0 speedline.al
 0.0.0.0 docflares.com
 0.0.0.0 puffhoick.com
+0.0.0.0 mexpress.mk
+0.0.0.0 24info.mk
+0.0.0.0 sikomerc.rs
+0.0.0.0 thepronotes.com
