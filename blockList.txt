@@ -567,3 +567,7 @@
 0.0.0.0 sikomerc.rs
 0.0.0.0 thepronotes.com
 0.0.0.0 teconnectivity.o9trf8.net
+0.0.0.0 kettledroopingcontinuation.com
+0.0.0.0 youstarsbuilding.com
+0.0.0.0 scriptapi.dev
+0.0.0.0 AKAM60800.net
