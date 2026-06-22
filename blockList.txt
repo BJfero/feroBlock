@@ -571,3 +571,7 @@
 0.0.0.0 youstarsbuilding.com
 0.0.0.0 scriptapi.dev
 0.0.0.0 AKAM60800.net
+0.0.0.0 filharmonija.mk
+0.0.0.0 scripts.com
+0.0.0.0 uniquebladesrunner.store
+0.0.0.0 federalpolyayede.edu.ng
