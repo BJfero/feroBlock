@@ -577,3 +577,6 @@
 0.0.0.0 federalpolyayede.edu.ng
 0.0.0.0 redbankenergy.com
 0.0.0.0 alfa.mk
+0.0.0.0 capedge.com
+0.0.0.0 bookscouter.com
+0.0.0.0 onestopgermanshop.com
