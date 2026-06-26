@@ -580,3 +580,4 @@
 0.0.0.0 capedge.com
 0.0.0.0 bookscouter.com
 0.0.0.0 onestopgermanshop.com
+0.0.0.0 beamonboard.com
