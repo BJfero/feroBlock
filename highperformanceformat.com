@@ -581,3 +581,5 @@
 0.0.0.0 bookscouter.com
 0.0.0.0 onestopgermanshop.com
 0.0.0.0 beamonboard.com
+0.0.0.0 ocamaih.ru
+0.0.0.0 azplay39.me
