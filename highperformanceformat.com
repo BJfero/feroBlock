@@ -583,3 +583,6 @@
 0.0.0.0 beamonboard.com
 0.0.0.0 ocamaih.ru
 0.0.0.0 azplay39.me
+0.0.0.0 teconnectivity.o9trf8.net
+0.0.0.0 www.ringaraja.net
+0.0.0.0 difftells.com
