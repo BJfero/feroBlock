@@ -593,3 +593,8 @@
 0.0.0.0 fdrealestate.com
 0.0.0.0 blink.new
 0.0.0.0 livexscores.com
+0.0.0.0 104.238.158.140:443
+0.0.0.0 theportcitynews.com
+0.0.0.0 kakadu.by
+0.0.0.0 bixbitemarketing.com
+0.0.0.0 pimparolix.com
