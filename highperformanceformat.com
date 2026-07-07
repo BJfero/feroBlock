@@ -599,3 +599,5 @@
 0.0.0.0 bixbitemarketing.com
 0.0.0.0 pimparolix.com
 0.0.0.0 thatdisform.cyou
+0.0.0.0 hnyuhaojixie.com
+0.0.0.0 testingdx.com
