@@ -602,3 +602,6 @@
 0.0.0.0 hnyuhaojixie.com
 0.0.0.0 testingdx.com
 0.0.0.0 dmkbe6.stayhealthytill70.com
+0.0.0.0 na01.safelinks.protection.outlook.com
+0.0.0.0 nhttvqorwq.com
+0.0.0.0 cyberfear.com
