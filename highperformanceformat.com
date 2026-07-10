@@ -583,8 +583,8 @@
 0.0.0.0 beamonboard.com
 0.0.0.0 ocamaih.ru
 0.0.0.0 azplay39.me
-0.0.0.0 teconnectivity.o9trf8.net
-0.0.0.0 www.ringaraja.net
+0.0.0.0 o9trf8.net
+0.0.0.0 ringaraja.net
 0.0.0.0 difftells.com
 0.0.0.0 edmelbourne.com
 0.0.0.0 reelviews.net
@@ -601,7 +601,11 @@
 0.0.0.0 thatdisform.cyou
 0.0.0.0 hnyuhaojixie.com
 0.0.0.0 testingdx.com
-0.0.0.0 dmkbe6.stayhealthytill70.com
-0.0.0.0 na01.safelinks.protection.outlook.com
+0.0.0.0 stayhealthytill70.com
 0.0.0.0 nhttvqorwq.com
 0.0.0.0 cyberfear.com
+0.0.0.0 heartburnauthority.com
+0.0.0.0 fastwpdemo.com
+0.0.0.0 olivekollection.com
+0.0.0.0 khoavantaycaocap.vn
+0.0.0.0 herway.net
