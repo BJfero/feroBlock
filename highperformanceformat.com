@@ -618,3 +618,7 @@
 0.0.0.0 vegweb.com
 0.0.0.0 sociofans.com
 0.0.0.0 restorativland.org
+0.0.0.0 shlklp.com
+0.0.0.0 labaq.com
+0.0.0.0 fontwp.com
+0.0.0.0 wittlich.de
