@@ -622,3 +622,4 @@
 0.0.0.0 labaq.com
 0.0.0.0 fontwp.com
 0.0.0.0 wittlich.de
+0.0.0.0 tspu.ru
