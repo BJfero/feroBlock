@@ -626,3 +626,11 @@
 0.0.0.0 cryptostyletees.com
 0.0.0.0 dlia.org
 0.0.0.0 linjunjidian.com
+0.0.0.0 outdoorshop.ba
+0.0.0.0 fafmag.com
+0.0.0.0 hide.me
+0.0.0.0 userapi.com
+0.0.0.0 liudongdong.cc
+0.0.0.0 edcommunity.ru
+0.0.0.0 tg-me.com
+0.0.0.0 yt1s.com.co
