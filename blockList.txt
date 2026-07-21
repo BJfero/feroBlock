@@ -644,3 +644,8 @@
 0.0.0.0 brandsmat.com
 0.0.0.0 medeivalreplicas.com
 0.0.0.0 ezpostings.com
+0.0.0.0 rovno.xyz
+0.0.0.0 verjournal.com
+0.0.0.0 genericpharmacy4u.com
+0.0.0.0 yh286.com
+0.0.0.0 oszar.com
