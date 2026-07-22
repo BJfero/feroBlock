@@ -649,3 +649,8 @@
 0.0.0.0 genericpharmacy4u.com
 0.0.0.0 yh286.com
 0.0.0.0 oszar.com
+0.0.0.0 geocities.ws
+0.0.0.0 optins.com
+0.0.0.0 nilalewapi.com
+0.0.0.0 solvusoft.com
+0.0.0.0 blacksmithbooks.com
