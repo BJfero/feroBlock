@@ -654,3 +654,8 @@
 0.0.0.0 nilalewapi.com
 0.0.0.0 solvusoft.com
 0.0.0.0 blacksmithbooks.com
+0.0.0.0 yolli.com
+0.0.0.0 doozyclothing.in
+0.0.0.0 sarpiede.org
+0.0.0.0 yotube.com
+0.0.0.0 eltek.mk
