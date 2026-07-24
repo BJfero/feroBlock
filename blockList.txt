@@ -659,3 +659,5 @@
 0.0.0.0 sarpiede.org
 0.0.0.0 yotube.com
 0.0.0.0 eltek.mk
+0.0.0.0 binancezh.info
+0.0.0.0 loveandparis.co
