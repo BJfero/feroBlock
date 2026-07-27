@@ -661,3 +661,9 @@
 0.0.0.0 eltek.mk
 0.0.0.0 binancezh.info
 0.0.0.0 loveandparis.co
+0.0.0.0 alukah.net
+0.0.0.0 vizoniuomo.com
+0.0.0.0 trevobuddy.com
+0.0.0.0 benhvienphusanhaiphong.vn
+0.0.0.0 cracksofthub.com
+0.0.0.0 energomonting.mk
