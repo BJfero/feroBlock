@@ -657,6 +657,8 @@
 0.0.0.0 yolli.com
 0.0.0.0 doozyclothing.in
 0.0.0.0 sarpiede.org
+0.0.0.0 hk-zhixin.com
+0.0.0.0 elektrotehnika.mk
 0.0.0.0 yotube.com
 0.0.0.0 eltek.mk
 0.0.0.0 binancezh.info
@@ -674,3 +676,8 @@
 0.0.0.0 exo.io
 0.0.0.0 ww2today.com
 0.0.0.0 fixuresrethink.cfd
+0.0.0.0 yfdpco2.com
+0.0.0.0 espacerezo.fr
+0.0.0.0 beautyfree.gr
+0.0.0.0 zzjnqh.com
+0.0.0.0 staticfile.org
