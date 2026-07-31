@@ -681,3 +681,6 @@
 0.0.0.0 beautyfree.gr
 0.0.0.0 zzjnqh.com
 0.0.0.0 staticfile.org
+0.0.0.0 subtitlecat.com
+0.0.0.0 dejantomic.com
+0.0.0.0 plctutorialpoint.com
