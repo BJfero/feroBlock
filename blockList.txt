@@ -684,3 +684,14 @@
 0.0.0.0 subtitlecat.com
 0.0.0.0 dejantomic.com
 0.0.0.0 plctutorialpoint.com
+0.0.0.0 blockchainacademics.com
+0.0.0.0 grinningplanet.com
+0.0.0.0 shaqhaf.com
+0.0.0.0 gilsonvieira.com.br
+0.0.0.0 gyandeepjkss.org
+0.0.0.0 nexedi.com
+0.0.0.0 writeoutloud.net
+0.0.0.0 ust.edu.ye
+0.0.0.0 rebenok.cn.ua
+0.0.0.0 faebook.com
+0.0.0.0 konsaltingpekovic.mk'
