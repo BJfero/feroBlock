@@ -30,6 +30,11 @@
 0.0.0.0 pubtrky.com
 0.0.0.0 shijejete.com
 0.0.0.0 bvng.shop
+0.0.0.0 solarvillage.africa
+0.0.0.0 teilehalle.de
+0.0.0.0 nbs24.org
+0.0.0.0 raneen.com
+0.0.0.0 asenwarefire.com
 0.0.0.0 refpa4948989.top
 0.0.0.0 hairshop.mk
 0.0.0.0 fzc11oktomvri.com.mk
