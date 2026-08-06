@@ -699,4 +699,7 @@
 0.0.0.0 ust.edu.ye
 0.0.0.0 rebenok.cn.ua
 0.0.0.0 faebook.com
-0.0.0.0 konsaltingpekovic.mk'
+0.0.0.0 konsaltingpekovic.mk
+0.0.0.0 babyletto.com
+0.0.0.0 gundamplanet.com
+0.0.0.0 igruha.org
