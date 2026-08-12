@@ -719,3 +719,13 @@
 0.0.0.0 blueseum.org
 0.0.0.0 nisanurkonyavip.com
 0.0.0.0 downloadpc.co
+0.0.0.0 kemenpppa.go.id
+0.0.0.0 savvyroyalties.com
+0.0.0.0 festyy.com
+0.0.0.0 seeratpc.com
+0.0.0.0 ymndg9vtn4.ru
+0.0.0.0 transfernow.net
+0.0.0.0 talismantesseract.space
+0.0.0.0 ex-fs.ru
+0.0.0.0 clion.it
+0.0.0.0 put.to
