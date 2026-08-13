@@ -729,3 +729,10 @@
 0.0.0.0 ex-fs.ru
 0.0.0.0 clion.it
 0.0.0.0 put.to
+0.0.0.0 ccmaker.org
+0.0.0.0 crackings.one
+0.0.0.0 cemkirtasiyeltd.com
+0.0.0.0 financetunnel.com
+0.0.0.0 printrecipes.net
+0.0.0.0 95octane.com
+0.0.0.0 borneotribun.com
