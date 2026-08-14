@@ -736,3 +736,11 @@
 0.0.0.0 printrecipes.net
 0.0.0.0 95octane.com
 0.0.0.0 borneotribun.com
+0.0.0.0 sjployola.com
+0.0.0.0 skypoolequipment.com
+0.0.0.0 altenberge.de
+0.0.0.0 thepiratebay.zone
+0.0.0.0 geekjob.ru
+0.0.0.0 isomat.co.uk
+0.0.0.0 digitaloceanspaces.com
+0.0.0.0 grupovo.bg
