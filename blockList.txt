@@ -246,6 +246,8 @@
 0.0.0.0 gis.com.mk
 0.0.0.0 knightknox.uk
 0.0.0.0 oongoubsou.com
+0.0.0.0 jimsclub.net
+
 0.0.0.0 tracepath360.top
 0.0.0.0 zoojoujoaseeh.com
 0.0.0.0 wedeb.com
@@ -744,3 +746,13 @@
 0.0.0.0 isomat.co.uk
 0.0.0.0 digitaloceanspaces.com
 0.0.0.0 grupovo.bg
+0.0.0.0 cloudfront.net
+0.0.0.0 occitanica.eu
+0.0.0.0 download-minecraft.ru
+0.0.0.0 soft.mydiv.net
+0.0.0.0 stereo.com
+0.0.0.0 saleemibookdepot.com
+0.0.0.0 sbmruda.pl
+0.0.0.0 350z-uk.com
+0.0.0.0 ducatflapper.com
+0.0.0.0 cheatengine.org
