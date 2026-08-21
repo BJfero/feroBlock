@@ -677,6 +677,7 @@
 0.0.0.0 cracksofthub.com
 0.0.0.0 energomonting.mk
 0.0.0.0 articlescad.com
+0.0.0.0 mtk-fortuna.ru
 0.0.0.0 torrentkitty.tv
 0.0.0.0 apps2app.com
 0.0.0.0 gps-hunter.ru
@@ -765,3 +766,7 @@
 0.0.0.0 worldstorerxd.com
 0.0.0.0 elektropromet.com.mk
 0.0.0.0 beograd365.rs
+0.0.0.0 legalservicesplc.org
+0.0.0.0 securegateway.com
+0.0.0.0 amidstdeploy.com
+0.0.0.0 365-worldstorerxd.com
