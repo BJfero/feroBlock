@@ -770,3 +770,9 @@
 0.0.0.0 securegateway.com
 0.0.0.0 amidstdeploy.com
 0.0.0.0 365-worldstorerxd.com
+0.0.0.0 shd247.world
+0.0.0.0 edgestream3.pro
+0.0.0.0 abisnews.com
+0.0.0.0 voruftuiov.com
+0.0.0.0 dlstreams.st
+0.0.0.0 bxcdn.net
