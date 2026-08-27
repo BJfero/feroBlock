@@ -778,3 +778,5 @@
 0.0.0.0 bxcdn.net
 0.0.0.0 ironempireclothing.com
 0.0.0.0 hjtpv.com
+0.0.0.0 foruftuiov.com
+0.0.0.0 pchelpsoft.com
