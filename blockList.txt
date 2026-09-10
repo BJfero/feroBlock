@@ -805,3 +805,8 @@
 0.0.0.0 facbook.com
 0.0.0.0 pressingtv.mk
 0.0.0.0 prefabrikevim.com
+0.0.0.0 aaa35.com
+0.0.0.0 hercegnovi.me
+0.0.0.0 pcgamestorrents.com
+0.0.0.0 modyolo.com
+0.0.0.0 frozenwildheart.top
