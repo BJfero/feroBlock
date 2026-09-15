@@ -810,3 +810,4 @@
 0.0.0.0 pcgamestorrents.com
 0.0.0.0 modyolo.com
 0.0.0.0 frozenwildheart.top
+0.0.0.0 pema.mk
