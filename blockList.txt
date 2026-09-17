@@ -811,3 +811,4 @@
 0.0.0.0 modyolo.com
 0.0.0.0 frozenwildheart.top
 0.0.0.0 pema.mk
+0.0.0.0 thedirecthor.com
