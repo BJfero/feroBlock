@@ -817,3 +817,5 @@
 0.0.0.0 globeargumentpanic.com
 0.0.0.0 zoologyfibre.com
 0.0.0.0 laowangt0j0.com
+0.0.0.0 trafficmachine.shop
+0.0.0.0 boylikezamia.shop
