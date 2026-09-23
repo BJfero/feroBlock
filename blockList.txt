@@ -819,3 +819,5 @@
 0.0.0.0 laowangt0j0.com
 0.0.0.0 trafficmachine.shop
 0.0.0.0 boylikezamia.shop
+0.0.0.0 irbisforcing.qpon
+0.0.0.0 republika.mk
