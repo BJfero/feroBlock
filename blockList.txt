@@ -821,3 +821,5 @@
 0.0.0.0 boylikezamia.shop
 0.0.0.0 irbisforcing.qpon
 0.0.0.0 republika.mk
+0.0.0.0 plctoolboxsupply.com
+0.0.0.0 twcstorage.ru
