@@ -824,3 +824,5 @@
 0.0.0.0 plctoolboxsupply.com
 0.0.0.0 twcstorage.ru
 0.0.0.0 rdrtr.com
+0.0.0.0 bikedonia.mk
+0.0.0.0 semok.com.mk
