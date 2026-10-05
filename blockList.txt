@@ -833,3 +833,7 @@
 0.0.0.0 grammywrites.blog
 0.0.0.0 walletinvestor.com
 0.0.0.0 preserved-diesels.co.uk
+0.0.0.0 awscfdns.com
+0.0.0.0 news99live.com
+0.0.0.0 prosoftz.com
+0.0.0.0 revamprave.org
