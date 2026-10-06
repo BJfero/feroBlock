@@ -837,3 +837,4 @@
 0.0.0.0 news99live.com
 0.0.0.0 prosoftz.com
 0.0.0.0 revamprave.org
+0.0.0.0 cinejoy.pk
