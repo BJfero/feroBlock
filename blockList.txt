@@ -844,3 +844,7 @@
 0.0.0.0 best10.cc
 0.0.0.0 esthatiamth.biz
 0.0.0.0 msillosi.com
+0.0.0.0 guangdexin.net
+0.0.0.0 moto-magazine.ru
+0.0.0.0 segment.ru
+0.0.0.0 stilo.it
