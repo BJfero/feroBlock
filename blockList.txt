@@ -848,3 +848,5 @@
 0.0.0.0 moto-magazine.ru
 0.0.0.0 segment.ru
 0.0.0.0 stilo.it
+0.0.0.0 casasbombinhasalugar.com.br
+0.0.0.0 tsauctions.com
