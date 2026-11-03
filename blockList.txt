@@ -865,3 +865,6 @@
 0.0.0.0 quickads.site
 0.0.0.0 drpc.org
 0.0.0.0 eboard3.com
+0.0.0.0 plc.auction
+0.0.0.0 basescan.org
+0.0.0.0 winxwheels.com
