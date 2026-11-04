@@ -868,3 +868,6 @@
 0.0.0.0 plc.auction
 0.0.0.0 basescan.org
 0.0.0.0 winxwheels.com
+0.0.0.0 ametagroup.com
+0.0.0.0 reapermini.com
+0.0.0.0 hqxmsy.cn
